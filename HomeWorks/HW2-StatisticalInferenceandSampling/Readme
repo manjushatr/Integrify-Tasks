@@ -1,0 +1,8 @@
+1.	Every group have  to download the Excel files:
+2.	Each file has three recorded values of water flow recorded using three sensors S1,S2, and S3.
+  ○	  Compute the covariance between three variables
+  ○	  Compute the correlation coefficients between three variables
+  ○	  Plot and report the relationships between the variables
+  ○	  Generate a random sample of 50 observations for each sensor
+  ○	  Compute the upper and the lower bounds with confidence intervals 90%, 95%, 99%.
+  ○	  Compare the population means of each sample with the estimated one given the samples
