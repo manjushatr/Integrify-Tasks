@@ -1,0 +1,12 @@
+1.	Every group have  to download the Excel files:
+2.	Each file has three recorded values of water flow recorded using three sensors S1,S2, and S3.
+
+○	Compute the central tendency measures
+○	Compute the spread measures
+○	What can you say about S1, S2, S3
+■	  In terms of Means, Variance, and Standard deviation
+■	  Which one of the sensors is different from the others
+3.	Is it possible to divide a categorical dataset using quartiles
+○	  Suppose we have list of set of colors
+○	  Colors = [Red, Green, Blue, Blue, Green, Red, Yellow, Orange, Purple, Blue, Green, Red, Blue, Yellow, Orange, Green, Blue, Red, Yellow, Green]
+○	  How can we make Quartiles in such a case?
