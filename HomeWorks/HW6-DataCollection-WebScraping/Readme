@@ -1,0 +1,49 @@
+Data Collection
+
+LinkedIn 1:
+1.	Suppose that Integrify wants to get some insights for the Machine Learning and Data Science job market in order to build the best practice and update the curriculum to maximize the chance for getting as many job offers as possible for the students. 
+2.	Your tasks are the following:
+a.	Each group member will be working on one country (Finland, Netherlands, Denmark, Sweden, and Germany)
+b.	Use the following keyword sets and try to locate 20 companies in each country:
+■	DataScience= [Data Science, Big data, Machine learning, Data mining, Artificial intelligence, Predictive modeling, Statistical analysis, Data visualization, Deep learning, Natural language processing, Business intelligence, Data warehousing, Data management, Data cleaning, Feature engineering, Time series analysis, Text analytics, Database, SQL, NoSQL, Neural networks, Regression analysis, Clustering, Dimensionality reduction, Anomaly detection, Recommender systems, Data integration, Data governance]
+
+■	MachineLearning = [Machine learning, Data preprocessing, Feature selection, Feature engineering, Data visualization, Model selection, Hyperparameter tuning, Cross-validation, Ensemble methods, Neural networks, Deep learning, Convolutional neural networks, Recurrent neural networks, Natural language processing, Computer vision, Reinforcement learning, Unsupervised learning, Clustering, Dimensionality reduction, Bayesian methods, Time series analysis, Random forest, Gradient boosting, Support vector machines, Decision trees, Regression analysis]
+
+c.	Collect all job offers of each company for a one-year time frame. 
+d.	You will end up with a dictionary where the keys are the company names and the values are a list of dictionaries. 
+e.	The keys in the sub-dictionaries correspond to keywords, and the values correspond to the company’s posts that include those keywords. 
+f.	In total, you will produce five dictionaries, each corresponding to one of the listed countries above. 
+g.	Save each dictionary in JSON format under the name of the corresponding country.
+
+LinkedIn 2:
+1.	Suppose that Integrify wants to get some insights for the FullStack job market in order to build the best practice and update the curriculum to maximize the chance for getting as many job offers as possible for the students. 
+2.	Your tasks are the following:
+a.	Each group member will be working on one country [Finland, Netherlands, Denmark, Sweden, and Germany]
+b.	Use the following keyword sets and try to locate 20 companies in each country:
+i.	FS= [Front-end development, HTML, CSS, JavaScript, React, Angular, Vue.js, Bootstrap, jQuery, responsive design, Back-end development, Node.js, Python, Ruby, PHP, Java, .NET, SQL, NoSQL, RESTful APIs, web servers, Database management,  MySQL, PostgreSQL, MongoDB, Redis, Cassandra, Oracle, SQL Server, DevOps, AWS, Azure, Google Cloud, Docker, Kubernetes, Git, Jenkins, Travis CI, CircleCI, monitoring and logging tools, Project management, Agile, Scrum, Kanban, JIRA, Trello, Asana, project planning, team collaboration, communication skills]
+
+c.	Collect all job offers of each company for a one-year time frame. 
+d.	You will end up with a dictionary where the keys are the company names and the values are a list of dictionaries. 
+e.	The keys in the sub-dictionaries correspond to keywords, and the values correspond to the company’s posts that include those keywords. 
+f.	In total, you will produce five dictionaries, each corresponding to one of the listed countries above. 
+g.	Save each dictionary in JSON format under the name of the corresponding country.
+
+
+Nasa Satellite images:
+
+1.	Suppose we want to build a Computer vision dataset that involves satellite images. 
+2.	Your tasks are the following:
+a.	Collect satellite images from  https://earthobservatory.nasa.gov/images
+■	Make sure to render the whole page using selenium and then use BeautifulSoup to scrape the data.
+■	Create a repo and name it Images, Save the crowled images based on their titles. 
+■	Create a dictionary where the keys are the images/titles and the values are the images’ descriptions.
+
+IMDB Gender images:
+
+3.	Suppose we want to build a data set for a Computer vision task that involves gender images. 
+4.	Your tasks are the following:
+a.	Collect 10k male/female images from:
+https://www.imdb.com
+■	Make sure to render the whole page using selenium and then use BeautifulSoup  to scrape the images
+■	Create a folder for male/female
+■	Each image will be named after the person in the picture
