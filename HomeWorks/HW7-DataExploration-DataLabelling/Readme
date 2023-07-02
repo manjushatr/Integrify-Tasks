@@ -1,0 +1,13 @@
+Data Exploration
+1. Suppose we want to measure the water flow using three sensors (S1, S2, S3) fixed in
+different places. Overalls we made 5 configurations where the data are recorded in
+‘First set of data.xslsx’:
+○ Explore the dataset in terms of:
+■ Types of variables (categorical or numerical)
+■ Statistics (min, mean, max, and std)
+■ Errors (if any)
+■ Outliers (BE CAREFUL)
+■ Are there any errors included in the outlier set?
+Data Labeling
+2. Suppose we have a twitter dataset we want to label it into two classes Radical or
+No-Radical the data are available in the repository Twitter Datasets.
