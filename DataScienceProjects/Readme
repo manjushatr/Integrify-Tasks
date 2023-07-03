@@ -1,0 +1,18 @@
+Data Science Project Tasks
+3.	Data analysis tasks every student should follow this protocol:
+○	Descriptive statistics:
+■	Building Summary 
+■	Calculate Central/Dispersion measures 
+■	Get the distribution of the data (each column)
+■	Analyze relationships between features
+
+○	EDA for every possible questions assigned by another group
+■	Identify the variable and their types 
+■	Clean your data (error, remove duplicates, missing values, Outliers)
+■	Transformation (Standardization, Normalization, encoding categorical to numerical)
+■	Data Visualization (use the suitable visualization that you need)
+
+○	Define your research questions/objectives
+■	Perform Hypothesis testing
+■	Interpret the results findings in the context of your research question or objective. Draw conclusions and make recommendations based on your analysis.
+■	Communicate your results: Present your insights and conclusions in a clear and concise manner, using visualizations and descriptive statistics. Tailor your communication to your audience, whether it be technical or non-technical.
